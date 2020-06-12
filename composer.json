@@ -1,0 +1,20 @@
+{
+    "name": "php-unit-tests",
+    "description": "Sample Project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ItsMurumba",
+            "email": "hi@itsmurumba.dev"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
